@@ -1,1 +1,1 @@
-End to end Machine Learning Project
+End to end Machine Learning Project. This file contains tutorials from Krish Naik on How to set up a Machine Learning Project with GitHub. Thank You.
